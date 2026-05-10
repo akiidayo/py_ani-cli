@@ -1,11 +1,21 @@
 # py_ani-cli
-i have made an py script to run anime with ani-cli for no click auto-next 
+i have made an py script to run anime with ani-cli for no click auto-next using py 
+
+requirement _______
+
+1ani-cli
+2mpv
+3pythone3
+4linux
+5zshrc/bshrc config
+6git and base devel 
 
 steps --------
+1. add py in main file (~) (base directory)
 
-1. add py in main file (~)
+1.1
 
-2  run javac ani.py
+2  run javac ani.py 
 
 3  run python3 ani.py "anime name" ep_no
 for test 
